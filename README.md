@@ -9,15 +9,19 @@ The circuit schematic is presented below. It uses a quad D flip-flop followed by
 The PCB was redesigned a year after to use SMD components and save space. It is a two layer board; the top and the bottom layer can be found below:
 
 Top of the PCB:
-https://cloud.githubusercontent.com/assets/978364/26766534/b18235b2-4948-11e7-9faf-fb40e493963f.PNG
+![front pcb - measurements](https://cloud.githubusercontent.com/assets/978364/26766534/b18235b2-4948-11e7-9faf-fb40e493963f.PNG)
+
 
 Bottom of the PCB:
-https://cloud.githubusercontent.com/assets/978364/26766535/b3ae9880-4948-11e7-962a-330d69280d6e.PNG
+![back pcb - measurements](https://cloud.githubusercontent.com/assets/978364/26766535/b3ae9880-4948-11e7-962a-330d69280d6e.PNG)
+
+
 
 The first version of the board's PCB can be found below. It used all through hole components, and was used as a learning experience for KiCad and placement, and did not take into account the board's size.
 
 Top of the PCB:
-https://cloud.githubusercontent.com/assets/978364/26766534/b18235b2-4948-11e7-9faf-fb40e493963f.PNG
+![top pcb](https://cloud.githubusercontent.com/assets/978364/26535614/072ef618-43e4-11e7-9287-16a72ab5372e.PNG)
 
 Bottom of the PCB:
-https://cloud.githubusercontent.com/assets/978364/26535615/09260a9c-43e4-11e7-8ee8-b023a27c6b8f.PNG
+![bottom pcb](https://cloud.githubusercontent.com/assets/978364/26535615/09260a9c-43e4-11e7-8ee8-b023a27c6b8f.PNG)
+
