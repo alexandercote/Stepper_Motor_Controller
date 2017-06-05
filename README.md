@@ -3,7 +3,8 @@ Designed a circuit board in KiCad to control the forward and reverse motion of a
 
 The circuit schematic is presented below. It uses a quad D flip-flop followed by a quad two input multiplexer to control the positive and negative terminals of the two coils of the stepper motor.
 
-https://cloud.githubusercontent.com/assets/978364/26766376/7f6fe702-4945-11e7-8a48-f689200d9a41.PNG
+![schematic](https://cloud.githubusercontent.com/assets/978364/26766376/7f6fe702-4945-11e7-8a48-f689200d9a41.PNG)
+
 
 The PCB was redesigned a year after to use SMD components and save space. It is a two layer board; the top and the bottom layer can be found below:
 
